@@ -1,0 +1,10 @@
+.step-tab-panel label {
+    text-transform: capitalize;
+}
+#pasquinadlibs-results {
+    padding: 20px;
+    background: #DDD;
+}
+#pasquinadlibs-results:empty {
+    background: none;
+}
